@@ -29,7 +29,7 @@ url: https://ngg.hu # the base hostname & protocol for your site, e.g. http://ex
 github_username: ngg
 
 # Build settings
-theme: hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
