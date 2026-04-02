@@ -30,6 +30,7 @@ github_username: ngg
 
 # Build settings
 theme: jekyll-theme-hacker
+markdown: GFM
 plugins:
   - jekyll-feed
 
